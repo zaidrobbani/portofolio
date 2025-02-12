@@ -295,7 +295,7 @@ nav > .nav-menu-btn > i {
     }
 
     50% {
-        transform: translateY(-2.4rem);
+        transform: translateY(-1rem);
     }
 
     100% {
